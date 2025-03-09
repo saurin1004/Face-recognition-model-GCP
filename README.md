@@ -33,10 +33,6 @@ Follow these steps to run the project:
 
 1. **Install Flask** and add it to your environment path  
 2. **Clone the Repository**  
-   ```sh
-   git clone <repository-link>
-   cd <repository-folder>
-    ```
 3. **Run the Flask Server**
     Open a terminal or command prompt in the project directory and execute:
     ```sh

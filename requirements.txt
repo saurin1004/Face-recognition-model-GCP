@@ -1,0 +1,11 @@
+# Uses the standalone Keras 2.x API (keras.layers.core, keras.layers.normalization),
+# so it needs a Keras/TensorFlow pairing from that era.
+flask
+keras
+tensorflow
+dlib
+opencv-python
+numpy
+pandas
+scikit-learn
+Pillow
